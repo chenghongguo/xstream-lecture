@@ -1,4 +1,4 @@
-package com.hongguo.domain;
+package com.hongguo.xstream.test.simple;
 
 import com.thoughtworks.xstream.XStream;
 

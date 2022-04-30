@@ -1,4 +1,4 @@
-package com.hongguo.xstream.test;
+package com.hongguo.xstream.test.alias;
 
 import com.thoughtworks.xstream.XStream;
 import org.junit.After;
@@ -144,21 +144,21 @@ public class AliasTest {
     public void testSimple() {
         // result
         /*
-            <com.hongguo.xstream.test.Blog>
+            <com.hongguo.xstream.test.alias.Blog>
               <writer>
                 <name>Guilherme</name>
               </writer>
               <entries>
-                <com.hongguo.xstream.test.Entity>
+                <com.hongguo.xstream.test.alias.Entity>
                   <title>first</title>
                   <desc>My first blog entity</desc>
-                </com.hongguo.xstream.test.Entity>
-                <com.hongguo.xstream.test.Entity>
+                </com.hongguo.xstream.test.alias.Entity>
+                <com.hongguo.xstream.test.alias.Entity>
                   <title>tutorial</title>
                   <desc>Today we have developed a nice alias tutorial. Tell your friends! NOW!</desc>
-                </com.hongguo.xstream.test.Entity>
+                </com.hongguo.xstream.test.alias.Entity>
               </entries>
-            </com.hongguo.xstream.test.Blog>
+            </com.hongguo.xstream.test.alias.Blog>
          */
     }
 

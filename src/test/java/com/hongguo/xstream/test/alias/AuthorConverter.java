@@ -1,4 +1,4 @@
-package com.hongguo.xstream.test;
+package com.hongguo.xstream.test.alias;
 
 import com.thoughtworks.xstream.converters.SingleValueConverter;
 

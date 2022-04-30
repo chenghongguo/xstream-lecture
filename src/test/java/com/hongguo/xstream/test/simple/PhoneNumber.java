@@ -1,4 +1,4 @@
-package com.hongguo.domain;
+package com.hongguo.xstream.test.simple;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

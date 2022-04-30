@@ -1,4 +1,4 @@
-package com.hongguo.xstream.test;
+package com.hongguo.xstream.test.alias;
 
 import java.util.ArrayList;
 import java.util.List;

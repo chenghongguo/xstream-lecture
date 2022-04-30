@@ -1,4 +1,4 @@
-package com.hongguo.xstream.test;
+package com.hongguo.xstream.test.alias;
 
 public class Entity {
     private String title, desc;
